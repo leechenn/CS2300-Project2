@@ -3,6 +3,7 @@ This project is about learning how to use a database to render the contents of a
 
 
  ##  Design and Intro
+[Requirement](requirement/project-2.pdf)<br/>
 [Design Plan](design-plan/design-plan.md)<br/>
 [Skectch](design-plan/sketch.jpg)<br/>
 [Wireframe](design-plan/wireframe.jpg)
