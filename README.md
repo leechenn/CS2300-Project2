@@ -1,4 +1,4 @@
-# CS3300-project2
+# CS2300-project2
 This project is about learning how to use a database to render the contents of a web page. To develop these skills I build a small catalog website. I stored the data for my catalog in a SQLite database. I then write a PHP web page to read the contents of the database and then present the data in a usable form for the web.
 
 
